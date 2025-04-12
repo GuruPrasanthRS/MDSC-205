@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MDSC-205/mlruns/0/533c63244adb42439b1c83e98b62123d/artifacts
+end_time: 1744432507028
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 533c63244adb42439b1c83e98b62123d
+run_name: likeable-goose-888
+run_uuid: 533c63244adb42439b1c83e98b62123d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744432484248
+status: 3
+tags: []
+user_id: codespace
